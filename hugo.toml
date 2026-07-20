@@ -1,0 +1,4 @@
+baseURL = 'https://vanth001.github.io/vantan-longjournal/'
+languageCode = 'zh-cn'
+title = 'VanTan Long Journal'
+theme = 'PaperMod'
