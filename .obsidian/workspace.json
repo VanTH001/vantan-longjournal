@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d582e5c48acbe8e9",
+        "id": "5da2e3d484d30743",
         "type": "tabs",
         "children": [
           {
-            "id": "3360affe79eb002b",
+            "id": "9af96a38df127856",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "89f3a561815a1d79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Test"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -69,7 +56,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -89,8 +76,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Test 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -129,12 +114,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Test 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -172,16 +156,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Test 的大纲"
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "e2697efe48d4f7a2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -199,10 +193,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb1e7c09c8dbc86a",
+  "active": "9af96a38df127856",
   "lastOpenFiles": [
-    "content/posts/kumano-kodo/index.md",
+    "未命名.base",
+    "未命名 1.base",
+    "2026-08-04.md",
+    "未命名.canvas",
     "Test.md",
+    "content/posts/kumano-kodo/index.md",
     "archetypes/default.md",
     "content/posts/kumano-kodo/DSCF0079.JPG"
   ]
